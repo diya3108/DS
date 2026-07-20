@@ -1,3 +1,6 @@
+/* Create an arrays A, B of size 3 , C of size 6 , merge A and B into C.
+Name: Diya Ambaliya
+Enrollment No.: 92500527126 */
 #include<stdio.h>
 void main()
 {
