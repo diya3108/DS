@@ -1,3 +1,6 @@
+/*  sort the array into descending order.
+Name: Diya Ambaliya
+Enrollment No.: 92500527126 */
 #include<stdio.h>
 void main()
 {
