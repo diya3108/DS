@@ -1,3 +1,4 @@
+/*Implement stack using array with following operators: push,pop,print,peek,peep,change,exit.*/
 #include<stdio.h>
 #define MAX 3
 
